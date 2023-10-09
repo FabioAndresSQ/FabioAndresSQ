@@ -4,7 +4,7 @@ Welcome to my portfolio! Here's a table that showcases two of my projects:
 
 | Project A                                                      | Project B                                                      |
 | -------------------------------------------------------------- | -------------------------------------------------------------- |
-| ![Project A](https://your-image-link-a.com) **Awesome Project** | ![Project B](https://your-image-link-b.com) **Cool Project**    |
+| ![Project A]([https://your-image-link-a.com](https://drive.google.com/file/d/1qllBjsBKwjymM75BY_9es7d1Y6APAHxu/view?usp=drive_link)) **Awesome Project** | ![Project B](https://your-image-link-b.com) **Cool Project**    |
 | Description: Awesome Project is...                               | Description: Cool Project is...                                 |
 | [GitHub Repository for Project A](https://github.com/your-username/project-a) | [GitHub Repository for Project B](https://github.com/your-username/project-b) |
 
