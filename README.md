@@ -19,7 +19,7 @@ Welcome to my portfolio! Here's a table that showcases two of my projects:
                 </td>
                 <td>
                     <a href="https://github.com/FabioAndresSQ/TechModa">
-                        <img src="https://github.com/FabioAndresSQ/FabioAndresSQ/blob/main/TiwoWorkoutTimer.jpg?raw=true" alt="TechModa">
+                        <img src="https://github.com/FabioAndresSQ/FabioAndresSQ/blob/main/TechModa.jpg?raw=true" alt="TechModa">
                     </a>
                 </td>
             </tr>
