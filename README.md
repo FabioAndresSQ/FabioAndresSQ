@@ -1,28 +1,16 @@
 # My Portfolio
 
-Welcome to my portfolio! Here, you can find information about two of my projects: Project A and Project B.
+Welcome to my portfolio! Here's a table that showcases two of my projects:
 
-## Project A: Awesome Project
+|                   |                            |
+| ----------------- | -------------------------- |
+| **Project A**     | **Awesome Project**        |
+| ![Project A](https://your-image-link-a.com) | [GitHub Repository for Project A](https://github.com/your-username/project-a) |
 
-![Project A](https://your-image-link-for-project-a.com)
-
-Project A is an amazing project that does XYZ. You can find the project's source code and documentation on the [GitHub Repository](https://github.com/your-username/project-a).
-
-Here are some key features of Project A:
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Project B: Cool Project
-
-![Project B](https://your-image-link-for-project-b.com)
-
-Project B is a cool project that does ABC. You can find the project's source code and documentation on the [GitHub Repository](https://github.com/your-username/project-b).
-
-Here are some key features of Project B:
-- Feature X
-- Feature Y
-- Feature Z
+|                   |                            |
+| ----------------- | -------------------------- |
+| **Project B**     | **Cool Project**           |
+| ![Project B](https://your-image-link-b.com) | [GitHub Repository for Project B](https://github.com/your-username/project-b) |
 
 ## Usage
 
