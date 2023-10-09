@@ -9,6 +9,34 @@ Welcome to my portfolio! Here's a table that showcases two of my projects:
 
 ## Usage
 
+<div align="center">
+        <table>
+            <tr>
+                <td>
+                    <a href="https://github.com/FabioAndresSQ/TIWO">
+                        <img src="https://github.com/FabioAndresSQ/FabioAndresSQ/blob/main/TiwoWorkoutTimer.jpg?raw=true" alt="TIWO: Workout Timer">
+                    </a>
+                </td>
+                <td>
+                    <a href="https://github.com/FabioAndresSQ/TechModa">
+                        <img src="https://github.com/FabioAndresSQ/FabioAndresSQ/blob/main/TiwoWorkoutTimer.jpg?raw=true" alt="TechModa">
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong>Project A</strong><br>
+                    Description: Awesome Project is...
+                </td>
+                <td>
+                    <strong>Project B</strong><br>
+                    Description: Cool Project is...
+                </td>
+            </tr>
+        </table>
+    </div>
+
+
 Instructions on how to use each project can be found in their respective GitHub repositories.
 
 ## License
