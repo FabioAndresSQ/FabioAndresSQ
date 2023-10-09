@@ -31,7 +31,7 @@ Welcome to my portfolio! Here's a table that showcases two of my projects:
                 </td>
                 <td style="width: 50%; text-align: center;">
                     <a href="https://github.com/FabioAndresSQ/Tech-Moda"><strong>https://github.com/FabioAndresSQ/Tech-Moda</strong></a><br>
-                    Technologies: Kotlin - Room - Dagger Hilt - Coroutines - Retrofit - Gson - SharedPreferences - APIs Externas
+                    Technologies: Kotlin - Firebase - FireStore - Authentication - Scrum - SharedPreferences - APIs Externas
                 </td>
             </tr>
         </table>
