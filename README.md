@@ -11,6 +11,14 @@ Welcome to my portfolio! Here's a table that showcases two of my projects:
 
 <div align="center">
         <table>
+                <tr>
+                <td>
+                    <strong>TIWO: Workout Timer</strong>
+                </td>
+                <td>
+                    <strong>TechModa: Ropa Sostenible</strong>
+                </td>
+            </tr>
             <tr>
                 <td>
                     <a href="https://github.com/FabioAndresSQ/TIWO">
@@ -18,15 +26,15 @@ Welcome to my portfolio! Here's a table that showcases two of my projects:
                     </a>
                 </td>
                 <td>
-                    <a href="https://github.com/FabioAndresSQ/TechModa">
+                    <a href="https://github.com/FabioAndresSQ/Tech-Moda">
                         <img src="https://github.com/FabioAndresSQ/FabioAndresSQ/blob/main/TechModa.jpg?raw=true" alt="TechModa">
                     </a>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <strong>Project A</strong><br>
-                    Description: Awesome Project is...
+                    <a href="https://github.com/FabioAndresSQ/TIWO"><strong>https://github.com/FabioAndresSQ/TIWO</strong></a><br>
+                    Technologies: Kotlin - Room - Dagger Hilt - Coroutines - Retrofit - Gson - SharedPreferences - APIs Externas 
                 </td>
                 <td>
                     <strong>Project B</strong><br>
