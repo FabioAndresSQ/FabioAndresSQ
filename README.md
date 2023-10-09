@@ -12,7 +12,7 @@ Welcome to my portfolio! Here's a table that showcases two of my projects:
                     <strong>TIWO: Workout Timer - <a href="https://play.google.com/store/apps/details?id=com.faesfa.tiwo" target="_blank">Download</a></strong>
                 </td>
                 <td>
-                    <strong>TechModa: Ropa Sostenible - <a href="https://github.com/FabioAndresSQ/Tech-Moda/#download" target="_blank">Download</a></strong>
+                    <strong>TechModa: Ropa Sostenible - <a href="https://github.com/FabioAndresSQ/Tech-Moda/#download" target="_blank">Repository</a></strong>
                 </td>
             </tr>
             <tr>
