@@ -10,7 +10,7 @@ Welcome to my portfolio! Here's a table that showcases two of my projects:
 ## Usage
 
 <div align="center">
-        <table>
+        <table style="width: 100%; border-collapse: collapse;">
                 <tr>
                 <td style="width: 50%; text-align: center;">
                     <strong>TIWO: Workout Timer</strong>
