@@ -15,7 +15,7 @@ Welcome to my portfolio! Here's a table that showcases two of my projects:
             <tr>
                 <td>
                     <a href="https://github.com/FabioAndresSQ/TIWO">
-                        <img src="https://github.com/FabioAndresSQ/FabioAndresSQ/blob/main/TiwoWorkoutTimer.jpg?raw=true" alt="TIWO: Workout Timer" style="width: 30%">
+                        <img src="https://github.com/FabioAndresSQ/FabioAndresSQ/blob/main/TiwoWorkoutTimer.jpg?raw=true" alt="TIWO: Workout Timer" style="width: 50%">
                     </a>
                 </td>
                 <td>
