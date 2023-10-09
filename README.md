@@ -6,7 +6,7 @@ Welcome to my portfolio! Here's a table that showcases two of my projects:
         <table style="width: 100%; border-collapse: collapse;">
                 <tr>
                 <td>
-                    <strong style="textalign: center;">TIWO: Workout Timer</strong>
+                    <strong style="text-align: center;">TIWO: Workout Timer</strong>
                 </td>
                 <td>
                     <strong>TechModa: Ropa Sostenible</strong>
