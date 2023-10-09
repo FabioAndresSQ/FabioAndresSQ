@@ -9,7 +9,7 @@ Welcome to my portfolio! Here's a table that showcases two of my projects:
         <table style="width: 100%; border-collapse: collapse;">
                 <tr>
                 <td>
-                    <strong>TIWO: Workout Timer - <a href="https://play.google.com/store/apps/details?id=com.faesfa.tiwo">Download</a></strong>
+                    <strong>TIWO: Workout Timer - <a target="_blank" href="https://play.google.com/store/apps/details?id=com.faesfa.tiwo">Download</a></strong>
                 </td>
                 <td>
                     <strong>TechModa: Ropa Sostenible</strong>
