@@ -1,7 +1,7 @@
 ## Hi, I'm Fabio Sanchez! 👋
-I'm an android developer and I would like to show you my work:
+I'm an android developer and I would like to show you my work.
 
-## My Portfolio
+# My Portfolio
 Welcome to my portfolio! Here's a table that showcases my projects:
 
 <div align="center">
