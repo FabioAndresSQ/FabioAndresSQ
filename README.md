@@ -3,10 +3,10 @@
 Welcome to my portfolio! Here's a table that showcases two of my projects:
 
 <div align="center">
-        <table style="width: 50%; border-collapse: collapse;">
+        <table style="width: 100%; border-collapse: collapse;">
                 <tr>
                 <td>
-                    <strong>TIWO: Workout Timer</strong>
+                    <strong style="textalign: center;">TIWO: Workout Timer</strong>
                 </td>
                 <td>
                     <strong>TechModa: Ropa Sostenible</strong>
