@@ -1,10 +1,9 @@
 # My Portfolio
 
 Welcome to my portfolio! Here's a table that showcases two of my projects:
-| :-: || :-: |
 | Project A                                                      | Project B                                                      |
 | -------------------------------------------------------------- | -------------------------------------------------------------- |
-| ![TIWO: Workout Timer](https://github.com/FabioAndresSQ/FabioAndresSQ/blob/main/TiwoWorkoutTimer.jpg?raw=true) **Awesome Project** | ![Project B](https://github.com/FabioAndresSQ/FabioAndresSQ/blob/main/TiwoWorkoutTimer.jpg?raw=true) **Cool Project**    |
+| ![TIWO: Workout Timer](https://github.com/FabioAndresSQ/FabioAndresSQ/blob/main/TiwoWorkoutTimer.jpg?raw=true) | :-: |**Awesome Project** | ![Project B](https://github.com/FabioAndresSQ/FabioAndresSQ/blob/main/TiwoWorkoutTimer.jpg?raw=true) **Cool Project**    |
 | Description: Awesome Project is...                               | Description: Cool Project is...                                 |
 | [GitHub Repository for Project A](https://github.com/your-username/project-a) | [GitHub Repository for Project B](https://github.com/your-username/project-b) |
 
