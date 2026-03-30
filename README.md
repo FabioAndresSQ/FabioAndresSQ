@@ -7,18 +7,9 @@ Welcome to my portfolio! Here's a table that showcases my projects:
 <div align="center">
         <table style="width: 100%; border-collapse: collapse;">
                 <tr>
-                    <td colspan="2" align="center">
-                        <strong>Zeny: Emotional Support App - <a href="https://play.google.com/store/apps/details?id=com.faesfa.zeny" target="_blank">Play Store</a></strong>
-                    </td>
-                </tr>
-                <tr>
-                    <td colspan="2" align="center">
-                        <a href="https://play.google.com/store/apps/details?id=com.faesfa.zeny" target="_blank">
-                            <img src="https://github.com/FabioAndresSQ/FabioAndresSQ/blob/main/zeny_01_ig.jpg?raw=true" alt="Zeny App">
-                        </a>
-                    </td>
-                </tr>
-                <tr>
+                <td>
+                    <strong>Zeny: Emotional Support App - <a href="https://play.google.com/store/apps/details?id=com.faesfa.zeny" target="_blank">Play Store</a></strong>
+                </td>
                 <td>
                     <strong>TIWO: Workout Timer - <a href="https://play.google.com/store/apps/details?id=com.faesfa.tiwo" target="_blank">Play Store</a></strong>
                 </td>
@@ -27,6 +18,11 @@ Welcome to my portfolio! Here's a table that showcases my projects:
                 </td>
             </tr>
             <tr>
+                <td>
+                    <a href="https://play.google.com/store/apps/details?id=com.faesfa.zeny" target="_blank">
+                        <img src="https://github.com/FabioAndresSQ/FabioAndresSQ/blob/main/zeny_01_ig.jpg?raw=true" alt="Zeny App">
+                    </a>
+                </td>
                 <td>
                     <a href="https://github.com/FabioAndresSQ/TIWO">
                         <img src="https://github.com/FabioAndresSQ/FabioAndresSQ/blob/main/TiwoWorkoutTimer.jpg?raw=true" alt="TIWO: Workout Timer">
@@ -40,6 +36,12 @@ Welcome to my portfolio! Here's a table that showcases my projects:
             </tr>
             <tr>
                 <td>
+                        <a href="https://github.com/TU_REPO_ZENY"><strong>https://github.com/TU_REPO_ZENY</strong></a><br>
+                        Technologies: Kotlin Multiplatform - Firebase (Firestore, Storage, Functions) - RevenueCat - AdMob - MercadoPago - OpenAI API - Agora.io - Jetpack Compose - Room - Hilt
+                        <br><br>
+                        Features: Emotional support chatbot, personal diary, breathing exercises, panic attack support, sleep sounds, therapy scheduling
+                </td>
+                <td>
                     <a href="https://github.com/FabioAndresSQ/TIWO"><strong>https://github.com/FabioAndresSQ/TIWO</strong></a><br>
                     Technologies: Kotlin - Room - Dagger Hilt - Coroutines - Retrofit - Gson - SharedPreferences - APIs Externas 
                 </td>
@@ -50,4 +52,5 @@ Welcome to my portfolio! Here's a table that showcases my projects:
             </tr>
         </table>
     </div>
-
+<tr>
+                    
