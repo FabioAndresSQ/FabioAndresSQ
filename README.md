@@ -36,13 +36,13 @@ Welcome to my portfolio! Here's a table that showcases my projects:
             </tr>
             <tr>
                 <td>
-                        <a href="https://github.com/TU_REPO_ZENY"><strong>https://github.com/TU_REPO_ZENY</strong></a><br>
+                        <a href="https://github.com/TU_REPO_ZENY"><strong></strong></a><br>
                         Technologies: Kotlin Multiplatform - Firebase (Firestore, Storage, Functions) - RevenueCat - AdMob - MercadoPago - OpenAI API - Agora.io - Jetpack Compose - Room - Hilt
                         <br><br>
                         Features: Emotional support chatbot, personal diary, breathing exercises, panic attack support, sleep sounds, therapy scheduling
                 </td>
                 <td>
-                    <a href="https://github.com/FabioAndresSQ/TIWO"><strong>https://github.com/FabioAndresSQ/TIWO</strong></a><br>
+                    <a href="https://github.com/FabioAndresSQ/TIWO"><strong>https://github.com/marucuellar/TIWO</strong></a><br>
                     Technologies: Kotlin - Room - Dagger Hilt - Coroutines - Retrofit - Gson - SharedPreferences - APIs Externas 
                 </td>
                 <td>
